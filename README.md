@@ -31,11 +31,14 @@ Building reliable systems that connect software, hardware, and networks through 
 
 ---
 
-## Projects
-- 🔹 Arduino-Based IoT Monitoring System  
-- 🔹 Network Setup & Configuration Project  
-- 🔹 System Development Applications  
-- 🔹 Hardware–Software Integration Experiments  
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|-------|------------|------|
+| 🎮 [UnBoreMe](https://github.com/joyannbalaguer/UnBoreMe) | Full-stack Flask gaming platform with authentication, admin panel, blogs, and leaderboard system | Python, Flask |
+| 🧾 [Flask Cashier & User System](https://github.com/joyannbalaguer/Flask-Cashier-and-User-System) | Cashier and user management system with role-based access using Flask Blueprints | Flask, HTML |
+| 🔐 [PHP Authentication System](https://github.com/joyannbalaguer/PHP-Authentication-System) | PHP authentication with registration, login validation, and session-based access control | PHP |
+
 
 ---
 
