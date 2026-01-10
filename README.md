@@ -12,8 +12,8 @@ Building reliable systems that connect software, hardware, and networks through 
 ---
 
 ## About Me
-- 🎓 Information Systems Student  
-- 💻 Focus: System Development, Networking, Hardware–Software Integration  
+- 🎓 Information Technology Student  
+- 💻 Focus: System Development, Roblox Game Development 
 - 🌐 Interests: Arduino, IoT Systems, Network Infrastructure, Automation  
 - 🌏 Location: Philippines  
 - 🗣 Languages: English, Filipino, Japanese (Basic / Nihongo)
@@ -23,10 +23,11 @@ Building reliable systems that connect software, hardware, and networks through 
 ## Tech Stack
 - Arduino / Embedded C  
 - Python  
-- Java  
-- Networking Fundamentals (TCP/IP, LAN, Routing Basics)  
-- Git & GitHub  
-- MySQL / PostgreSQL  
+- Java
+- PHP
+- Javascript
+- Networking Fundamentals (TCP/IP, LAN, Routing)  
+- MySQL  
 
 ---
 
