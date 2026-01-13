@@ -2,11 +2,11 @@
   <img src="Github banner .gif" width="100%" />
 </p>
 
-<h1 align="center">Joy Ann Balaguer</h1>
+<h1 align="center">Joy Ann Anawen Guiriba Balaguer</h1>
 <h3 align="center">System Development • Networking • IoT & Embedded Systems</h3>
 
 <p align="center">
-Building reliable systems that connect software, hardware, and networks through scalable and practical engineering solutions.
+Hi, I’m Joy Ann, a 19-year-old second-year BS IT student specializing in System Development. I am passionate about robotics and technology and currently studying at Laguna University.
 </p>
 
 ---
