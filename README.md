@@ -16,7 +16,7 @@ Building reliable systems that connect software, hardware, and networks through 
 - 💻 Focus: System Development, Roblox Game Development 
 - 🌐 Interests: Arduino, IoT Systems, Network Infrastructure, Automation  
 - 🌏 Location: Philippines  
-- 🗣 Languages: English, Filipino, Japanese (Basic / Nihongo)
+- 🗣 Languages: English, Filipino, Japanese (n3)
 
 ---
 
